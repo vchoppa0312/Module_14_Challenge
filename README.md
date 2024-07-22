@@ -1,5 +1,3 @@
-# Module_14_Challenge
-
 ## Machine Learning Trading Bot
 
 In this challenge, our endeavour is to create and fine tune machine learning classifier model to provide trading signals incorporating the latest available data.
